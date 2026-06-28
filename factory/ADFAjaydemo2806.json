@@ -1,0 +1,15 @@
+{
+	"name": "ADFAjaydemo2806",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "608859a1-971f-4656-a6bf-ccf58ae6def0",
+		"tenantId": "a8eb47af-e6d4-4eaa-b4ca-bea2ae7ceaba"
+	}
+}
